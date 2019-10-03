@@ -19,11 +19,12 @@
    .navbar a:hover {
      background-color: #000;
    }
+   .navbar li a:focus{
+     background: #4CAF50;
+   }
    
    /* Current/active navbar link */
-   .active {
-     background-color: #4CAF50;
-   }
+
    
 
 
